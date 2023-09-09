@@ -25,7 +25,7 @@ entries = [{
   "current_day": current_day().strftime("%A"),
   "utc_time": get_utc_time(),
   "track": "backend",
-  "github_file_url": "https://github.com/Timmy-Edibo/HNGx_Backend/blob/stage_one/app/main.py",
+  "github_file_url": "https://github.com/Timmy-Edibo/HNGx_Backend/blob/stage_one/main.py",
   "github_repo_url": "https://github.com/Timmy-Edibo/HNGx_Backend",
   "status_code": 200
 }]
