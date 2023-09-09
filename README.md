@@ -43,4 +43,4 @@ You can access the API using the following parameters:
 - Track: Backend
 
 You can also access it directly by pasting this link in your browser:
-[API Endpoint](http://127.0.0.1:8000/api?slack_name=Timothy%20Edibo&track=backend)
+[API Endpoint](https://simple-api-255u.onrender.com/api?slack_name=Timothy%20Edibo&track=backend)
