@@ -21,7 +21,7 @@ def get_utc_time():
   
   
 entries = [{
-  "slack_name": "HNGx",
+  "slack_name": "Timothy Edibo",
   "current_day": current_day().strftime("%A"),
   "utc_time": get_utc_time(),
   "track": "backend",

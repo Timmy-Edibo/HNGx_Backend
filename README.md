@@ -39,7 +39,7 @@ I've used FastAPI, which provides interactive documentation. You can access it a
 ## API Endpoint
 
 You can access the API using the following parameters:
-- Slack Name: HNGX
+- Slack Name: Timothy Edibo
 - Track: Backend
 
 You can also access it directly by pasting this link in your browser:
